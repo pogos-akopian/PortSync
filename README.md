@@ -1,6 +1,6 @@
 # ⚓ PortSync: Just-In-Time Logistics Optimizer
 
-> **AI-система оптимизации морской логистики (Downstream).**
+> **Система оптимизации морской логистики (Downstream).**
 > *Сокращаем штрафы за простой (Demurrage) и выбросы CO2 за счет алгоритмов "умного прибытия" (Just-In-Time Arrival).*
 
 ![Dashboard Preview](db_screenshot.png)
